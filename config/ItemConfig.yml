@@ -1,0 +1,352 @@
+﻿groups:
+  Woods:
+  - Wood
+  - FineWood
+  - RoundLog
+  - ElderBark
+  - YggdrasilWood
+  Stuff:
+  - Stone
+  - Flint
+  - BlackMarble
+  - Chitin
+  - Coal
+  - Crystal
+  - BoneFragments
+  - GreydwarfEye
+  - Resin
+  - Feathers
+  - Amber
+  - AmberPearl
+  - Ruby
+  - Tar
+  - SurtlingCore
+  - Pukeberries
+  - LinenThread
+  - Entrails
+  - FreezeGland
+  - GiantBloodSack
+  - Eitr
+  - Mandible
+  - Obsidian
+  - Ooze
+  - WolfFang
+  - WolfClaw
+  - SerpentScale
+  - Guck
+  - Bloodbag
+  - Barley
+  - Flax
+  Meads:
+  - MeadEitrMinor
+  - MeadFrostResist
+  - MeadHealthMajor
+  - MeadHealthMedium
+  - MeadHealthMinor
+  - MeadPoisonResist
+  - MeadStaminaLingering
+  - MeadStaminaMedium
+  - MeadStaminaMinor
+  - BarleyWine
+  Seeds:
+  - Thistle
+  - Acorn
+  - AncientSeed
+  - Dandelion
+  - BeechSeeds
+  - BirchSeeds
+  - FirCone
+  - OnionSeeds
+  - PineCone
+  - TurnipSeeds
+  - mc_seed
+  - mc_cosmicseed
+  - CarrotSeeds
+  - MeadTasty
+  - sm_greater_health
+  - sm_greater_stamina
+  - sm_speed_buff
+  - sm_rested_buff
+  - sm_exp_buff
+  - sm_no_skill_buff
+  - sm_teleport_anything
+  - sm_warm_buff
+  - sm_fast_attack_buff
+  Hides:
+  - Root
+  - LeatherScraps
+  - DeerHide
+  - TrollHide
+  - WolfPelt
+  - LoxPelt
+  - ScaleHide
+  - RottenPelt
+  - GoblinScraps_TW
+  - Carapace
+  - WolfHairBundle
+  - AshenFur_TW
+  - ArcticMammothPelt_TW
+  - ArcticWolfPelt_TW
+  - ArcticBearPelt_TW
+  - GrizzlyBearPelt_TW
+  - BlackBearPelt_TW
+  - JuteBlue
+  - JuteRed
+  - SoftTissue
+  Arrows:
+  - ArrowWood
+  - ArrowFlint
+  - ArrowBronze
+  - ArrowFire
+  - ArrowIron
+  - ArrowPoison
+  - ArrowObsidian
+  - ArrowSilver
+  - ArrowFrost
+  - ArrowNeedle
+  - ArrowCarapace
+  - BoltBlackmetal
+  - BoltBone
+  - BoltCarapace
+  - BoltIron
+  - ArrowBone_TW
+  - ArrowPickaxe_TW
+  - ArrowExplosiveLightning_TW
+  - ArrowExplosivePoison_TW
+  - ArrowTyranium_TW
+  - ArrowFlametal_TW
+  - ArrowExplosiveFire_TW
+  - ArrowExplosiveFrost_TW
+  SmallEdibles:
+  - Raspberry
+  - Blueberries
+  - Cloudberry
+  - Mushroom
+  - MushroomYellow
+  - Carrot
+  - Onion
+  - Honey
+  - Turnip
+  - RoyalJelly
+  - MushroomJotunPuffs
+  - MushroomMagecap
+  - Pumpkin
+  RawMeats:
+  - RawMeat
+  - DeerMeat
+  - mc_rawchickenmeat
+  - FishRaw
+  - WolfMeat
+  - LoxMeat
+  - BugMeat
+  - HareMeat
+  - ChickenMeat
+  - FishAnglerRaw
+  FoodIngredients:
+  - CookedMeat
+  - NeckTailGrilled
+  - CookedDeerMeat
+  - FishCooked
+  - CookedWolfMeat
+  - CookedLoxMeat
+  - cookedbugmeat
+  - cookedharemeat
+  - CookedChickenMeat
+  - BarleyFlour
+  - BoarJerky
+  - Bread
+  - Sausages
+  - WolfJerky
+  - mc_grilledchicken
+  - mc_boiledegg
+  - mc_rawegg
+  ValheimCuisineMaterial:
+  - VC_AndySeasoning
+  - VC_ChoppedMeat
+  - VC_TrollMeat
+  - VC_Ectoplasm
+  - VC_AncientBarkFlour
+  ValheimCuisinePotions:
+  - VC_JofurrMixture
+  - VC_GodiConcoction
+  - VC_LupineExtract
+  - VC_LoxMilk
+  - VC_HaulerPotion
+  - VC_UlfhednarMixture
+  - VC_VanirElixir
+  - VC_EinherjarMixture
+  - VC_DvergrTonic
+  - VC_MimirDrops
+  ValheimCuisineFood:
+  - VC_SessrumnirRagout
+  - VC_NeckSoup
+  - VC_PorkRibs
+  - VC_BoarSvid
+  - VC_Skause
+  - VC_SauteMushrooms
+  - VC_DeerSvid
+  - VC_TrollSvid
+  - VC_ForestSkewer
+  - VC_TrollStew
+  - VC_CaramelizedRoots
+  - VC_VegetableSoup
+  - VC_CuredPork
+  - VC_SpicedHam
+  - VC_Blodpolse
+  - VC_NeckStew
+  - VC_BloodyBroth
+  - VC_MyrkvidrSkause
+  - VC_Lutefisk
+  - VC_RootSoup
+  - VC_MinerInfusion
+  - VC_EikthyrSvid
+  - VC_ManagarmrChop
+  - VC_ChoppedVeggies
+  - VC_Pottage
+  - VC_HunterStew
+  - VC_IcedRaspberry
+  - VC_IcedBlueberry
+  - VC_HatchlingSoup
+  - VC_SigurdOmelet
+  - VC_WrappedTetra
+  - VC_MountainSkause
+  - VC_BloodmoonStew
+  - VC_WolfSalami
+  - VC_WolfSvid
+  - VC_FlambeMincedWolf
+  - VC_UlvStew
+  - VC_UllrPhilter
+  - VC_Saehrimnir
+  - VC_JarlSearedMeat
+  - VC_LoxSvid
+  - VC_BerserkerSvid
+  - VC_JarnvidrSkause
+  - VC_IdunnConfiture
+  - VC_LoxCheese
+  - VC_SweetPorridge
+  - VC_TravellerPorridge
+  - VC_WarriorPottage
+  - VC_Skyr
+  - VC_Multekrem
+  - VC_Tunnbrod
+  - VC_WolfWraps
+  - VC_RatatoskrDesire
+  - VC_ChoppedShrooms
+  - VC_Surkal
+  - VC_CharredHareSteak
+  - VC_HareStew
+  - VC_CrunchySkewer
+  - VC_VingolfMeal
+  - VC_AdventurerPorridge
+  - VC_Smorrebrod
+  - VC_ChickenDumpling
+  - VC_ChickenStew
+  - VC_GalgvidrSkause
+  - VC_EggSaladSandwich
+  - VC_CrispyPuffers
+  - VC_CreamBastarde
+  - VC_MeatbugRagout
+  - VC_MistyFondue
+  - VC_DragonSvid
+  - VC_GrilledBread
+  - VC_GrilledCheese
+  - VC_DvergrMinerBroth
+  - VC_DvergrMageBroth1
+  - VC_VolvaInfusion
+  - VC_VolvaBrew
+  - VC_JormundStew
+  - VC_PerchSteak
+  - VC_VikingStew
+  - VC_SmokedHerring
+  - VC_TunaWHerbs
+  - VC_Hakarl
+  - VC_SerpentSvid
+  - VC_JomsvikingStew
+  - VC_AshlandicSoup
+  - VC_IcelandicFish
+  - VC_GrouperPottage
+  - VC_HeavyFishStew
+  - VC_FishChowder
+  - VC_IcelandicFritters
+  - VC_AshlandicSkewer
+  - VC_SerpentChowder
+  - VC_NjordsFavorite
+  - VC_MyrkalfarStew
+  - VC_LyngbakrChowder
+  ValheimCuisineBanquts:
+  - VC_FreyBanquet
+  - VC_JarlBanquet
+  - VC_YuleBanquet
+  - VC_OskoreiaBanquet
+  - VC_DvalinnBanquet
+
+
+#
+all:
+    floating: yes
+    pickup: yes
+    teleportable: yes
+# stuff floats in water; everything is pickable
+
+Woods:
+    stack factor: 4
+
+Stone:
+    stack factor: 4
+
+DragonEgg:
+    stack: 3
+    weight: 100
+FenrirsHeart:
+    stack: 5
+    weight: 50
+YmirsSoulEssence:
+    stack: 5
+    weight: 50
+# dragon eggs stack up to 3, and weigh considerably less
+
+metal:
+    stack factor: 2
+ore:
+    stack factor: 2
+Stuff:
+    stack factor: 2
+SmallEdibles:
+    stack factor: 2
+RawMeats:
+    stack factor: 5
+FoodIngredients:
+    stack factor: 5
+Hides:
+    stack factor: 2
+Seeds:
+    stack factor: 2
+Meads:
+    stack factor: 2
+Arrows:
+    stack factor: 2
+
+ValharvestFood:
+    stack factor: 2
+BoneAppetitFoods:
+    stack factor: 2
+ValharvestFoodIngredients:
+    stack factor: 10
+BoneAppetitFoodIngredients:
+    stack factor: 5
+
+ValheimCuisineMaterial:
+    stack: 100
+ValheimCuisinePotions:
+    stack: 20
+ValheimCuisineFood:
+    stack: 20
+ValheimCuisineBanquts:
+    stack: 20
+
+food:
+    loss: no
+
+Coins:
+    stack: 5000
+    weight: 0.05

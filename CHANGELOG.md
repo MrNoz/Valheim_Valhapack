@@ -1,0 +1,32 @@
+## ***beta_0.3.0***
+- **Update**
+  - DropThat
+  - DoOrDieMonsters
+  - FarmyardAnimals
+- **Added**
+  - MinimalStatusEffect
+  - CraftingFilter
+  - AmmoInfoDisplay
+  - Build_Camera_Custom_Hammers_Edition
+  - ValheimCuisine
+  - ConfigWatcher
+  - WackysDatabase
+  - BoneAppetit
+- **Removed**
+  - FloatingItems
+- **Balancing**
+  - JewelCrafting
+  - Client HUD
+  - EpicMMO
+  - Stacks Size (more later)
+  - creature an boss can be spawn with special effect
+## ***beta_0.2.0***
+- **Added**
+  - PotionPlus
+  - Building
+- **Removed**
+  - Professions
+  - MinimalUI
+- **Balancing**
+  - BetterUI
+  - EpicMMO
