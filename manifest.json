@@ -1,7 +1,7 @@
 {
     "name": "Valhapack",
     "version_number": "0.3.3",
-    "website_url": "https://www.twitch.tv/mr_noz",
+    "website_url": "https://github.com/MrNoz/Valheim_Valhapack",
     "description": "A modpack for my friends and me",
     "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2105",
